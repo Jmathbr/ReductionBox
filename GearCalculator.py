@@ -36,5 +36,6 @@ for i in range(j):
     print("Diamentro de Base: "+str(db[i]))
     print("Diamentro Primitivo: "+str(dp[i]))
     print("Diamentro Externo: "+str(de[i]))
+    print("Passo: "+str(p[i]))
     print("Engrenagem da Certo? "+str(dia[i]))
     print(" ")
