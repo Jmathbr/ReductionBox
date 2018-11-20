@@ -1,0 +1,29 @@
+Engrenagem: 0 (Speed)
+Numero de Dentes: 10
+Numero do Modulo: 2
+Numero do Angulo: 17
+Diamentro Interno: 15.332
+Diamentro de Base: 19.1260951193
+Diamentro Primitivo: 20
+Diamentro Externo: 24
+Passo: 6.28
+
+Engrenagem: 1 (Fix)
+Numero de Dentes: 40
+Numero do Modulo: 2
+Numero do Angulo: 17
+Diamentro Interno: 75.332
+Diamentro de Base: 76.504380477
+Diamentro Primitivo: 80
+Diamentro Externo: 84
+Passo: 6.28
+
+Engrenagem: 2 (Torque)
+Numero de Dentes: 50
+Numero do Modulo: 2
+Numero do Angulo: 17
+Diamentro Interno: 95.332
+Diamentro de Base: 95.6304755963
+Diamentro Primitivo: 100
+Diamentro Externo: 104
+Passo: 6.28
